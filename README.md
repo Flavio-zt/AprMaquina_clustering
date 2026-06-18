@@ -69,7 +69,6 @@ Construye un grafo de similitud entre puntos, calcula los vectores propios del L
 | `clustering_dataset_Iris.ipynb` | Iris |
 | `moonsModeloMetricas.ipynb` | Moons |
 | `clustering_dataset_circle.ipynb` | Circles |
-| `Informe_Actividad04_Clustering.docx` | Informe completo |
 
 ## Tecnologías
 
