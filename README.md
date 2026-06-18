@@ -1,4 +1,4 @@
-# Actividad 04 — Clustering: Modelos Lineales y No Lineales con Métricas de Validación
+# # Actividad 04: Clustering Lineal y No Lineal con K-Means, DBSCAN y Spectral Clustering
 
 Implementación y comparación de tres algoritmos de clustering aplicados sobre datasets reales y sintéticos. Se evalúa el rendimiento de cada modelo usando métricas de validación externa e interna para determinar cuál se adapta mejor a cada tipo de estructura de datos.
 
